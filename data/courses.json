@@ -4,41 +4,47 @@
     "imgUrl": "https://cssdeck.com/blog/wp-content/uploads/2015/03/must-read-html-css-books.jpg",
     "name": "HTML5",
     "description": "HTML5 is the latest and most enhanced version of HTML. Technically, HTML is not a programming language, but rather a markup language.",
-    "time": "30h"
+    "time": "30h",
+    "pdfUrl":"https://pdfhost.io/edit?doc=05be7757-410f-435d-a2eb-0efb15059687"
   },
   {
     "id": 2,
     "imgUrl": "https://miro.medium.com/max/378/0*Emc8S5I4Rijk-hNJ.jpg",
     "name": "CSS3",
     "description": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.",
-    "time": "40h"
+    "time": "40h",
+    "pdfUrl":"pdfbook1.pdf"
   },
   {
     "id": 3,
     "imgUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/e53af8191_202772.jpg",
     "name": "Javascript",
     "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.",
-    "time": "50h"
+    "time": "50h",
+    "pdfUrl":"pdfbook1.pdf"
   },
   {
     "id": 4,
     "imgUrl": "https://m.media-amazon.com/images/I/41IiBTZOGCL._SL500_.jpg",
     "name": "React",
     "description": "A JavaScript library for building user interfaces",
-    "time": "90h"
+    "time": "90h",
+    "pdfUrl":"pdfbook1.pdf"
   },
   {
     "id": 5,
     "imgUrl": "https://m.media-amazon.com/images/I/41Y0hnvzrYL.jpg",
     "name": "Angular",
     "description": "Angular is a platform for building mobile and desktop web applications. ",
-    "time": "70"
+    "time": "70",
+    "pdfUrl":"pdfbook1.pdf"
   },
   {
     "id": 6,
     "imgUrl": "https://m.media-amazon.com/images/I/418NnKr2KKL._SY346_.jpg",
     "name": "Vue",
     "description": "An approachable, performant and versatile framework for building web user interfaces.",
-    "time": "80"
+    "time": "80",
+    "pdfUrl":"pdfbook1.pdf"
   }
 ]
