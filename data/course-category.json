@@ -1,0 +1,17 @@
+[
+    {
+      "id": "01",
+      "type":"beginner",
+      "name": "Beginner"
+    },
+    {
+      "id": "02",
+      "type":"medium",
+      "name": "Medium"
+    },
+    {
+      "id": "03",
+      "type":"advance",
+      "name": "Advance"
+    }
+  ]
