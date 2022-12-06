@@ -41,7 +41,7 @@
     "imgUrl": "https://m.media-amazon.com/images/I/41Y0hnvzrYL.jpg",
     "name": "Angular",
     "description": "Angular is a platform for building mobile and desktop web applications. ",
-    "time": "70",
+    "time": "70h",
     "pdfUrl":"pdfbook1.pdf"
   },
   {
@@ -50,7 +50,7 @@
     "imgUrl": "https://m.media-amazon.com/images/I/418NnKr2KKL._SY346_.jpg",
     "name": "Vue",
     "description": "An approachable, performant and versatile framework for building web user interfaces.",
-    "time": "80",
+    "time": "80h",
     "pdfUrl":"pdfbook1.pdf"
   }
 ]
